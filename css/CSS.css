@@ -80,3 +80,13 @@ a.btn:hover {
   height: 1550px;
   text-align: center;
 }
+
+.contentXXX {
+  background:url("../img/W1.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 1550px;
+  text-align: center;
+}
